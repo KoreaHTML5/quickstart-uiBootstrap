@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jeonghwan-kim/quickstart-uiBootstrap.git"
+    "url": "https://github.com/KoreaHTML5/quickstart-uiBootstrap.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jeonghwan-kim/quickstart-uiBootstrap/issues"
+    "url": "https://github.com/KoreaHTML5quickstart-uiBootstrap/issues"
   },
-  "homepage": "https://github.com/jeonghwan-kim/quickstart-uiBootstrap",
+  "homepage": "https://github.com/KoreaHTML5/quickstart-uiBootstrap",
   "devDependencies": {
     "browser-sync": "^2.8.2",
     "del": "^0.1.2",
