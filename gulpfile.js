@@ -80,10 +80,8 @@ gulp.task('serve', function () {
 
 // Build and serve the output from the dist build
 gulp.task('serve:dist', ['default'], function () {
-  browserSync({
-    notify: false,
-    logPrefix: 'QS',
-    server: 'dist'
+  browserSync.init({
+    server: './dist'
   });
 });
 
